@@ -1,2 +1,5 @@
-
-/.ipynb_checkpoints
+.ipynb_checkpoints
+data_csv/matches.csv
+data_csv/timestamps.csv
+data_csv/timestamps.parquet
+data_csv/timestamps_ext.csv
